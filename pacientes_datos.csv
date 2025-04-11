@@ -1,0 +1,11 @@
+id_paciente,edad,mmse,moca,volumen_hipocampo,anos_diagnostico,nivel_actividad_fisica,indice_masa_corporal,porcentaje_perdida_memoria
+P001,72,24,21,2800,3,Moderado,25.1,15
+P002,65,27,25,3100,1,Bajo,22.3,10
+P003,78,20,18,2600,5,Alto,27.4,25
+P004,69,26,24,2950,2,Moderado,24.8,12
+P005,74,22,20,2700,4,Bajo,30.0,18
+P006,67,28,26,3200,1,Alto,23.5,8
+P007,81,19,17,2500,6,Bajo,28.9,30
+P008,70,25,23,2850,3,Moderado,26.2,14
+P009,66,29,27,3300,0,Alto,21.9,5
+P010,73,21,19,2650,4,Moderado,29.3,20
